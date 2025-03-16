@@ -8,7 +8,7 @@ CSS
 JavaScrip
 
 *Agrega nombres
-*Muestra nombres aggragados
+*Muestra nombres agregados
 *Sortea el nombre aleatoriamente
 *Reinicia la lista y Juego
 
