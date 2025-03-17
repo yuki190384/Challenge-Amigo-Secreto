@@ -1,4 +1,4 @@
-*Este proyecyo de Alura-LATAM,como parte de un desafio, es una aplicacion para sortear un Amigo Secreto 
+*Este proyecto de Alura-LATAM,como parte de un desafio, es una aplicacion para sortear un Amigo Secreto 
 Permite agregar nombres a una lista y despues seleccionar aleatoriamente un participante
 y lo define como Amigo Secreto 
 
