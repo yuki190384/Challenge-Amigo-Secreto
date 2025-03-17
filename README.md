@@ -12,4 +12,4 @@ JavaScrip
 *Sortea el nombre aleatoriamente
 *Reinicia la lista y Juego
 
-*Abrir el arcivo inex.html en tu navegador
+*Abrir el archivo index.html en tu navegador
